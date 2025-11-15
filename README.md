@@ -37,8 +37,8 @@ El prototipo de Figma consta de 43 pantallas que cubren el flujo completo de la 
 ![Detalle de producto](frames/comprador/page-9.png)
 
 #### Vendedor
-![Dashboard](frames/vendedor/page-31.png)
-![Productos](frames/vendedor/page-32.png)
+![Dashboard](frames/vendedor/page-22.png)
+![Productos](frames/vendedor/page-23.png)
 
 ### Estructura de frames (exportados desde Figma)
 - frames/autenticacion: 7 imágenes (page-1.png a page-7.png)
