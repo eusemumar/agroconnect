@@ -77,3 +77,10 @@ Este proyecto fue desarrollado por:
 ---
 
 *Este archivo README.md fue generado automáticamente a partir de la documentación original del proyecto.*
+
+## 📂 Evidencias del Prototipo (Figma)
+
+- PDF completo del prototipo: artifacts/figma/flows/agroconnect_prototipo.pdf
+- Enlace al Figma: https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1
+
+> Próximamente: imágenes por flujo (Autenticación, Comprador, Vendedor) organizadas en artifacts/figma/frames/...
