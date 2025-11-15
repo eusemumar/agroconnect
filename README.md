@@ -4,7 +4,7 @@
 
 ## 🔗 Prototipo en Figma
 
-- Enlace directo: [AgroConnect en Figma](https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1)
+- Enlace directo: [AgroConnect en Figma](https://www.figma.com/proto/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=1-6&p=f&t=NVTMxO1nuwWIkP7Y-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A6)
 - Recomendación: usa el modo Presentación para recorrer los flujos.
 
 ## 🎯 Objetivo Principal
