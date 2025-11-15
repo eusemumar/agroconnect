@@ -83,4 +83,17 @@ Este proyecto fue desarrollado por:
 - PDF completo del prototipo: artifacts/figma/flows/agroconnect_prototipo.pdf
 - Enlace al Figma: https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1
 
-> Próximamente: imágenes por flujo (Autenticación, Comprador, Vendedor) organizadas en artifacts/figma/frames/...
+### Galería (páginas del PDF)
+
+> Imágenes extraídas automáticamente del PDF. Organización por flujo (Autenticación, Comprador, Vendedor) se agregará luego.
+
+- ![](artifacts/figma/frames/pdf_pages/page-000.png)
+- ![](artifacts/figma/frames/pdf_pages/page-001.png)
+- ![](artifacts/figma/frames/pdf_pages/page-002.png)
+- ![](artifacts/figma/frames/pdf_pages/page-003.png)
+- ![](artifacts/figma/frames/pdf_pages/page-004.png)
+- ![](artifacts/figma/frames/pdf_pages/page-005.png)
+- ![](artifacts/figma/frames/pdf_pages/page-006.png)
+- ![](artifacts/figma/frames/pdf_pages/page-007.png)
+- ![](artifacts/figma/frames/pdf_pages/page-008.png)
+- ![](artifacts/figma/frames/pdf_pages/page-009.png)
