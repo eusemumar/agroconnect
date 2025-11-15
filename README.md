@@ -2,6 +2,11 @@
 
 **AgroConnect** es una aplicación móvil diseñada para reducir la intermediación comercial entre **productores agrícolas** y **consumidores urbanos**, facilitando la compraventa directa de productos frescos. Este proyecto busca mejorar los ingresos de los agricultores familiares en municipios rurales como Sabanas de San Ángel, Magdalena, al ofrecer una plataforma digital accesible y moderna.
 
+## 🔗 Prototipo en Figma
+
+- Enlace directo: [AgroConnect en Figma](https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1)
+- Recomendación: usa el modo Presentación para recorrer los flujos.
+
 ## 🎯 Objetivo Principal
 
 Reducir la intermediación comercial que afecta los ingresos de los productores hasta en un 60%, conectándolos directamente con los consumidores finales.
@@ -20,6 +25,25 @@ El sistema incluye un **Asistente AI integrado** (etiquetado como 'Contáctanos'
 ## 🧭 Estructura de Navegación y Pantallas
 
 El prototipo de Figma consta de 43 pantallas que cubren el flujo completo de la aplicación.
+
+### Vista rápida (capturas)
+
+#### Autenticación
+![Bienvenida](frames/autenticacion/page-1.png)
+![Selección de rol](frames/autenticacion/page-2.png)
+
+#### Comprador
+![Catálogo](frames/comprador/page-8.png)
+![Detalle de producto](frames/comprador/page-9.png)
+
+#### Vendedor
+![Dashboard](frames/vendedor/page-31.png)
+![Productos](frames/vendedor/page-32.png)
+
+### Estructura de frames (exportados desde Figma)
+- frames/autenticacion: 7 imágenes (page-1.png a page-7.png)
+- frames/comprador: 14 imágenes (page-8.png a page-21.png)
+- frames/vendedor: 22 imágenes (page-22.png a page-43.png)
 
 ### 1. Flujo de Autenticación
 
