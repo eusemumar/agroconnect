@@ -4,7 +4,7 @@
 
 ## 🔗 Prototipo en Figma
 
-- Enlace directo: [AgroConnect en Figma](https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1)
+- Enlace directo: <a href="https://www.figma.com/design/EWLGt8zrpcFZ3zGB4z1E5j/AgroConnect?node-id=0-1&t=g3nTJDyqtIbxatMw-1" target="_blank" rel="noopener noreferrer">AgroConnect en Figma</a>
 - Recomendación: usa el modo Presentación para recorrer los flujos.
 
 ## 🎯 Objetivo Principal
@@ -29,16 +29,16 @@ El prototipo de Figma consta de 43 pantallas que cubren el flujo completo de la 
 ### Vista rápida (capturas)
 
 #### Autenticación
-![Bienvenida](frames/autenticacion/page-1.png)
-![Selección de rol](frames/autenticacion/page-2.png)
+<img src="frames/autenticacion/page-1.png" alt="Bienvenida" width="300">
+<img src="frames/autenticacion/page-2.png" alt="Selección de rol" width="300">
 
 #### Comprador
-![Catálogo](frames/comprador/page-8.png)
-![Detalle de producto](frames/comprador/page-9.png)
+<img src="frames/comprador/page-8.png" alt="Catálogo" width="300">
+<img src="frames/comprador/page-9.png" alt="Detalle de producto" width="300">
 
 #### Vendedor
-![Dashboard](frames/vendedor/page-31.png)
-![Productos](frames/vendedor/page-32.png)
+<img src="frames/vendedor/page-31.png" alt="Dashboard" width="300">
+<img src="frames/vendedor/page-32.png" alt="Productos" width="300">
 
 ### Estructura de frames (exportados desde Figma)
 - frames/autenticacion: 7 imágenes (page-1.png a page-7.png)
